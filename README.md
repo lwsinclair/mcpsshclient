@@ -10,7 +10,8 @@ To enable the agentic capabilities.
 
 # Setup Instructions
 1. Run ```git clone https://github.com/jonnadul/mcpsshclient.git```
-2. Run ```npm run build```
+2. Run ```npm install```
+3. Run ```npm run build```
 
 To enable the security agent, set ```"ENABLE_SECAGENT": true``` and ```"SECURITY_POLICY"``` in ```secagentconfig.json```
 
