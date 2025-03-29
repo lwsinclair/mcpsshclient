@@ -33,6 +33,6 @@ In your MCP Client make the corresponding change
 So far tested on the following:
 - Claude Desktop: ```claude_desktop_config.json```
 - Cursor AI: Command Panel -> Cursor Settings -> MCP Server
-
+- VSCode Insider
 
 Have (responsible) fun! :rocket:
